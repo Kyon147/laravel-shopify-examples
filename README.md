@@ -3,9 +3,15 @@ A collection of different templates for the Laravel Shopify package which you ca
 
 ## VueJS
 
+Coming soon
+
 ## React
 
+Completed but could still be a WIP
+
 ## Interia
+
+Looking for someone to complete this example.
 
 ## Blade
 This is the "default" set up, but is slowly becoming harder to get approaval on the Shopify app store so is not going to be included in this repo. 
